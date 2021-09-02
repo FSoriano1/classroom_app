@@ -1,0 +1,16 @@
+const FURNITURE_DATA = [
+  {"title": "Furniture 1", "image": null, "msg": 1},
+  {"title": "Furniture 2", "image": null, "msg": 2},
+  {"title": "Furniture 3", "image": null, "msg": 3},
+  {"title": "Furniture 4", "image": null, "msg": 4},
+  {"title": "Furniture 5", "image": null, "msg": 5},
+  {"title": "Furniture 6", "image": null, "msg": 6},
+  {"title": "Furniture 7", "image": null, "msg": 7},
+  {"title": "Furniture 8", "image": null, "msg": 8},
+  {"title": "Furniture 9", "image": null, "msg": 9},
+  {"title": "Furniture 10", "image": null, "msg": 10},
+  {"title": "Furniture 11", "image": null, "msg": 11},
+  {"title": "Furniture 12", "image": null, "msg": 12},
+  {"title": "Furniture 13", "image": null, "msg": 13},
+  //{"title": "Furniture 14", "image": null, "msg": 14},
+];
